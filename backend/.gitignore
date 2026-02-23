@@ -219,3 +219,6 @@ package-lock.json
 
 # Ignoring all env files
 .env*
+
+mongodb.txt
+mongodbguide.txt
